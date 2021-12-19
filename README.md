@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABRSO a.k.a Abhiram Manthena
+- 👋 Hi, I’m a.k.a Abhiram Manthena
 - 👀 I’m interested in Cloud services, AI/ML, game development
 - 🌱 I’m currently learning Python, IoT, Machine Learning
 - 💞️ I’m looking to collaborate on any beginner friendly projects and internships
