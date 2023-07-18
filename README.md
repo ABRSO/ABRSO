@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a.k.a Abhiram Manthena
-- 👀 I’m interested in Cloud computing, AI/ML, game development
-- 🌱 I’m currently learning Python, IoT, Machine Learning
+- 👋 Hi, I’m Abhiram Manthena
+- 👀 I’m interested in Embedded Systems, IoT
+- 🌱 I’m currently learning Embedded C, Microcontrollers, IoT
 - 💞️ I’m looking to collaborate on any beginner friendly projects and internships
 - 📫 You can contact me @ abhiram.manthena6@gmail.com, 19131a04e2@gvpce.ac.in, @ABR799 on twitter
